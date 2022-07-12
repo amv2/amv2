@@ -6,7 +6,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amv2/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amv2_or)
   
-## Languages and Technologies I work with
+ 
+# Skills
+<h1>Programming Languages</h1>
+Java • JavaScript (ES6) • Python3 • Solidity • Lua
 
 <!--
 **amv2/amv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
