@@ -1,6 +1,6 @@
 ![alt text](https://github.com/amv2/amv2/blob/main/img/Amv2Banner.png)
 # Moses
-Hello there! I'm an aspiring Software / Blockchain / Robotics Engineeer currently studying at Heriot-Watt Univeristy.
+<h3>Hello there! I'm an aspiring Software / Blockchain / Robotics Engineeer currently studying at Heriot-Watt Univeristy.</h3>
 
 ## Let's connect!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amv2/)
