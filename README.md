@@ -9,7 +9,7 @@
 <div align="center">
   <h1>Skills</h1>
 </div>
-## Programming Languages
+<h2>Programming Languages</h2>
 Java • JavaScript (ES6) • Python3 • Solidity • Lua
 
 <!--
