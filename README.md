@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amv2_or)
 
 <div align="center">
-# Skills
+  <h1>Skills</h1>
 </div>
 ## Programming Languages
 Java • JavaScript (ES6) • Python3 • Solidity • Lua
