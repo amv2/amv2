@@ -1,5 +1,4 @@
 ![alt text](https://github.com/amv2/amv2/blob/main/img/Amv2Banner.png)
-# Moses
 <h3>Hello there! I'm an aspiring Software / Blockchain / Robotics Engineeer currently studying at Heriot-Watt Univeristy.</h3>
 
 ## Let's connect!
