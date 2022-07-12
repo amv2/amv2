@@ -8,7 +8,7 @@
   
  
 # Skills
-<h1>Programming Languages</h1>
+## Programming Languages
 Java • JavaScript (ES6) • Python3 • Solidity • Lua
 
 <!--
