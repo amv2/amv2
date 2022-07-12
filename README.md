@@ -9,8 +9,12 @@
 <div align="center">
   <h1>Skills</h1>
 </div>
+
 <h2>Programming Languages</h2>
-Java • JavaScript (ES6) • Python3 • Solidity • Lua
+Java • JavaScript (ES6) • Python3 • Solidity • Lua • C • C++ • CSS • HTML5 • Verilog
+
+<h2>Technologies</h2>
+Git • ReactJS • NextJS • Hardhat • CoppeliaSim • Vectornator • MS Word
 
 <!--
 **amv2/amv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
