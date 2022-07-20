@@ -11,7 +11,7 @@
 </div>
 
 <h2>Programming Languages</h2>
-Java • JavaScript (ES6) • Python3 • Solidity • Lua • C • C++ • CSS • HTML5 • Verilog
+Java • JavaScript • Python3 • Solidity • Lua • C • C++
 
 <h2>Technologies</h2>
 Git • ReactJS • NextJS • Hardhat • CoppeliaSim • Vectornator • MS Word
