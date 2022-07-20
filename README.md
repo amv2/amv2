@@ -14,7 +14,7 @@
 Java • JavaScript • Python3 • Solidity • Lua • C • C++
 
 <h2>Technologies</h2>
-Git • ReactJS • NextJS • Hardhat • CoppeliaSim • Vectornator • MS Word
+Git • ReactJS • NextJS • Hardhat • CoppeliaSim • Vectornator
 
 <!--
 **amv2/amv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
